@@ -6,6 +6,8 @@
 - 📫 How to reach me **rcarrenhot@gmail.com**
 
 - ⚡ Fun fact **I like playing games**
+- 
+<img align="right" alt="jpg" width="250px" src="https://c.tenor.com/723jCifvXXoAAAAM/big-floppa-floppa.gif)" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

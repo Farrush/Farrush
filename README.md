@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I like playing games**
  
-<img align="right" alt="jpg" width="220px" src="https://c.tenor.com/723jCifvXXoAAAAM/big-floppa-floppa.gif)" />
+<img align="right" alt="jpg" width="250px" src="https://c.tenor.com/yD1Ogd2Kjb4AAAAM/demon-slayer-rengoku.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael :shipit:</h1>
 <h3 align="center">I'm a dev student from Brazil</h3>
 
-- 🌱 I’m currently learning **JavaScript and CSS**
+- 🌱 I’m currently learning **JavaScript and C#**
 
 - 📫 How to reach me **rcarrenhot@gmail.com**
 

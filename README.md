@@ -17,5 +17,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Farrush&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Farrush&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+![Snake animation](https://github.com/Farrush/Farrush/blob/output/github-contribution-grid-snake.svg)
 ---
 [![](https://visitcount.itsvg.in/api?id=Farrush&icon=5&color=6)](https://visitcount.itsvg.in)
+

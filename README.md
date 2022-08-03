@@ -1,6 +1,8 @@
 # 💫 About Me:
 # Hi, i'm Rafael<br><br>
-🌱 I’m currently learning Java and VueJs<br>📫How to reach me: rcarrenhot@gmail.com<br>
+🌱 I’m currently learning Java and VueJs<br>📫 How to reach me: rcarrenhot@gmail.com<br>✨ I love Hunter X Hunter<br>
+        <img src="https://c.tenor.com/Prbn7MKd26IAAAAC/leorio-hxh.gif" width="250px"><br>
+
 
 
 ## 🌐 Socials:

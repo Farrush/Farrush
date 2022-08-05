@@ -1,11 +1,12 @@
 # 💫 About Me:
-# Hi, i'm Rafael<br><br>
+## My name is Rafael<br><br>
 🌱 I’m currently learning Java and VueJs<br>📫 How to reach me: rcarrenhot@gmail.com<br>✨ I love Hunter X Hunter<br>
-        <img src="https://c.tenor.com/Prbn7MKd26IAAAAC/leorio-hxh.gif" width="250px"><br>
+
+<img src="https://c.tenor.com/Prbn7MKd26IAAAAC/leorio-hxh.gif" height="180px"/> <img src="https://c.tenor.com/Cm29t3lcnhwAAAAC/neferpitou-hxh.gif" height="180px"/><br>
+<hr/>
 
 
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafael-carrenho-taranto-87a494231/) 
 
 # 💻 Tech Stack:

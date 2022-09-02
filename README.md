@@ -1,6 +1,6 @@
 # 💫 About Me:
-## My name is Rafael<br><br>
-🌱 I’m currently learning Java and VueJs<br>📫 How to reach me: rcarrenhot@gmail.com<br>✨ I love Hunter X Hunter<br>
+#### My name is Rafael<br><br>
+🌱 I’m currently learning Java and VueJs<br>📫 How to reach me: rcarrenhot@gmail.com<br>✨ I love Hunter X Hunter<br>🎸 Metalhead<br>
 
 <img src="https://c.tenor.com/Prbn7MKd26IAAAAC/leorio-hxh.gif" height="180px"/> <img src="https://c.tenor.com/Cm29t3lcnhwAAAAC/neferpitou-hxh.gif" height="180px"/><br>
 <hr/>

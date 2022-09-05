@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
-- 🌱 I’m currently learning VueJS
+<br/>
+ 🌱 I’m currently learning VueJS <br/><br/>
 
-- 📫 How to reach me **rcarrenhot@gmail.com**
+ 📫 How to reach me **rcarrenhot@gmail.com**
 
-- ⚡ Fun fact **I love Hunter X Hunter and i'm a metalhead.**
+ ⚡ Fun fact **I love Hunter X Hunter and i'm a metalhead.**
 
 <img src="https://c.tenor.com/Prbn7MKd26IAAAAC/leorio-hxh.gif" height="180px"/> <img src="https://c.tenor.com/Cm29t3lcnhwAAAAC/neferpitou-hxh.gif" height="180px"/><br>
 

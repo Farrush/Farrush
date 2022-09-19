@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <br/>
- 🌱 I’m currently learning VueJS and to play guitar<br/><br/>
+ 🌱 I’m currently learning VueJS and Angular<br/><br/>
 
  📫 How to reach me **rcarrenhot@gmail.com**
 

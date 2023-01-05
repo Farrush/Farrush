@@ -4,9 +4,9 @@
 
  📫 How to reach me **rcarrenhot@gmail.com**
 
- ⚡ Fun fact **I love Hunter X Hunter and i'm a metalhead.**
+ ⚡ Fun fact **I have too many hours of skyrim, something i'm not proud of**
 
-<img src="https://c.tenor.com/Cm29t3lcnhwAAAAC/neferpitou-hxh.gif" height="180px"/> <img src="https://c.tenor.com/dJ_AasjA5-sAAAAC/cuphead-devil-cup-head.gif" height="180px"/>
+<img src="https://c.tenor.com/Cm29t3lcnhwAAAAC/neferpitou-hxh.gif" height="180px"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

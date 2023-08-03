@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 First semester of graduation<br>🌱 I’m currently learning Java<br>💬 Ask me about universe and physics<br>📧 My best E-mail rcarrenhot@gmail.com
+🔭 Systems Analysis and Development Student 2/5<br>🌱 I’m currently learning Java and React<br>💬 Ask me about universe and physics<br>📧 My best E-mail rcarrenhot@gmail.com
 
 
 ## 🌐 Socials:
